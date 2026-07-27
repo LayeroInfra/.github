@@ -46,7 +46,11 @@ Layero рассчитан на то, что деплоем управляет а
   [`llms-full.txt`](https://layero.ru/llms-full.txt) — машинная инструкция
   по деплою.
 - [Правила для Cursor](https://layero.ru/cursorrules) — drop-in в `.cursorrules`.
-- MCP-сервер `https://mcp.layero.ru/mcp` — 5 инструментов, без авторизации.
+- MCP-сервер `https://mcp.layero.ru/mcp` (Streamable HTTP) — 16 инструментов
+  на весь цикл: собрать лендинг, опубликовать, подключить домен и аналитику,
+  разобрать упавшую сборку. Каталожные (`list_design_systems`,
+  `list_structures`) отвечают без токена, всё, что касается аккаунта и
+  сайтов, — требует его.
 - Гайд: [docs.layero.ru/cli/agents](https://docs.layero.ru/cli/agents)
 
 ## Ссылки
