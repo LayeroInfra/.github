@@ -32,7 +32,7 @@ Git не нужен: CLI отправляет локальный каталог 
 | [**deploy-action**](https://github.com/LayeroInfra/deploy-action) | Официальный GitHub Action. Нужен, когда сборке требуются секреты CI или приватные зависимости. |
 | [**layero-claude**](https://github.com/LayeroInfra/layero-claude) | Маркетплейс плагина для Claude Code: собрать лендинг прямо в чате IDE и задеплоить. |
 | [**layero-docs**](https://github.com/LayeroInfra/layero-docs) | Исходники документации (Docusaurus, ru/en). |
-| [**design-system**](https://github.com/LayeroInfra/design-system) | Каталог UI-компонентов (Storybook). Живой: [ui-catalog-ds.layero.app](https://ui-catalog-ds.layero.app) — собран и опубликован на самой Layero. |
+| [**design-system**](https://github.com/LayeroInfra/design-system) | Каталог UI-компонентов (Storybook). Живой: [ui-catalog-ds.layero.app](https://ui-catalog-ds.layero.app) — опубликован на самой Layero (собирается в CI, на платформу уезжает готовая статика). |
 
 ## Для AI-агентов
 
