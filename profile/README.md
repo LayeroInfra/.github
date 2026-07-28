@@ -1,12 +1,12 @@
 # Layero
 
-**Хостинг и деплой фронтенда с серверами и CDN внутри России.**
+**Хостинг и деплой фронтенда со сборкой и серверами внутри России.**
 Статические сайты и SPA — фреймворк определяется сам: Next.js, Nuxt,
 Remix / React Router v7, SvelteKit, Astro, Gatsby, Angular, Vite, CRA,
 Docusaurus, Storybook, VitePress, Eleventy, Hugo и просто HTML.
 Плюс runtime-приложения — SSR, Streamlit, Gradio.
 
-<sub>Deployment platform for static sites and SPAs, with build servers and CDN
+<sub>Deployment platform for static sites and SPAs, with build servers
 located inside Russia — an alternative to Vercel and Netlify for the Russian
 market.</sub>
 
