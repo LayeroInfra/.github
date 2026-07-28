@@ -1,8 +1,10 @@
 # Layero
 
 **Хостинг и деплой фронтенда с серверами и CDN внутри России.**
-Статические сайты и SPA: Next.js, Vite, Astro, SvelteKit, Nuxt, Gatsby, CRA,
-Docusaurus, обычный HTML. Плюс runtime-приложения — SSR, Streamlit, Gradio.
+Статические сайты и SPA — фреймворк определяется сам: Next.js, Nuxt,
+Remix / React Router v7, SvelteKit, Astro, Gatsby, Angular, Vite, CRA,
+Docusaurus, Storybook, VitePress, Eleventy, Hugo и просто HTML.
+Плюс runtime-приложения — SSR, Streamlit, Gradio.
 
 <sub>Deployment platform for static sites and SPAs, with build servers and CDN
 located inside Russia — an alternative to Vercel and Netlify for the Russian
